@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://git-dev.solingen.de/smartcityapp/documents/-/tree/master/X_Datastructure/2_Functions/schemas/search-.schema.json",
+  "title": "search-*",
+  "description": "Response of the search-* functions",
+  "type": "object",
+  "version": "1.0.0",
+  "properties": {
+    "result": {
+      "title": "result",
+      "description": "",
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "properties": {
+          "_index": {
+            "title": "_index",
+            "description": "The elasicsearch index",
+            "type": "string",
+            "examples": ["solingenapp_events"]
+          },
+          "_id": {
+            "title": "_id",
+            "description": "The id of the object",
+            "type": "string",
+            "examples": ["iudExB64wa"]
+          },
+          "_score": {
+            "title": "_score",
+            "description": "The elasicsearch score",
+            "type": "double",
+            "examples": [11.491275]
+          },
+          "_source": {
+            "title": "_source",
+            "description": "The object stored in elasticsearch",
+            "type": "object"
+          }
+        }
+      }
+    }
+  }
+}

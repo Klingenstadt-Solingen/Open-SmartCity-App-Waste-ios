@@ -1,0 +1,77 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://git-dev.solingen.de/smartcityapp/documents/-/tree/master/X_Datastructure/1_Classes/schemas/WasteAddress.schema.json",
+  "title": "WasteAddress",
+  "description": "An address object used for waste collection",
+  "type": "object",
+  "version": "1.0.0",
+  "examples": [
+    {
+      "objectId": "jVJwggDYBc",
+      "streetAddress": "Abteiweg",
+      "houseNumber": "67a",
+      "source": "https://solingen-abfallapp.regioit.de",
+      "sourceId": 1772461,
+      "createdAt": "2022-01-21T19:11:20.339Z",
+      "updatedAt": "2022-01-21T19:11:20.339Z"
+    }
+  ],
+  "required": [
+    "objectId",
+    "streetAddress",
+    "houseNumber",
+    "source",
+    "sourceId",
+    "createdAt",
+    "updatedAt"
+  ],
+  "properties": {
+    "objectId": {
+      "title": "objectId",
+      "description": "Auto generated id",
+      "type": "string",
+      "examples": ["zzaxq0Di66"],
+      "additionalProperties": false
+    },
+    "createdAt": {
+      "title": "createdAt",
+      "description": "UTC date when the object was created",
+      "type": "string",
+      "examples": ["2022-01-18T00:00:00.000Z"],
+      "additionalProperties": false
+    },
+    "updatedAt": {
+      "title": "updatedAt",
+      "description": "UTC date when the object was changed",
+      "type": "string",
+      "examples": ["2022-01-18T13:00:00.000Z"],
+      "additionalProperties": false
+    },
+    "streetAddress": {
+      "description": "The Street of the location",
+      "examples": ["Abteiweg"],
+      "title": "streetAddress",
+      "type": "string"
+    },
+    "houseNumber": {
+      "description": "House number of the location",
+      "examples": ["67a"],
+      "title": "houseNumber",
+      "type": "string"
+    },
+    "source": {
+      "description": "The source system",
+      "examples": ["https://solingen-abfallapp.regioit.de"],
+      "title": "source",
+      "type": "string",
+      "format": "url"
+    },
+    "sourceId": {
+      "description": "The unique id inside the source system",
+      "examples": [1772461],
+      "title": "sourceId",
+      "type": "integer"
+    }
+  },
+  "additionalProperties": true
+}

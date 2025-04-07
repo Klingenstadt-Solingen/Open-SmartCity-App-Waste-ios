@@ -1,0 +1,50 @@
+{
+    "results": [
+        {
+            "objectId": "gEjjXTJAeIwrHFSm",
+            "name": "M\u00fcllheizkraftwerk",
+            "telephone": "0212 / 290-4664",
+            "email": "mhkw.anlieferung@solingen.de",
+            "description": "Im M\u00fcllheizkraftwerk (MHKW) werden Hausm\u00fcll und hausm\u00fcll\u00e4hnliche Gewerbeabf\u00e4lle umweltvertr\u00e4glich entsorgt. Die Entsorgung ist eine Dienstleistung f\u00fcr alle Haushalte und Gewerbetreibende in Solingen",
+            "sourceUrl": "",
+            "sourceId": "",
+            "url": "",
+            "image": "",
+            "location": {
+                "address": {
+                    "streetAddress": "Sandstra\u00dfe 16a",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42655"
+                },
+                "geopoint": {
+                    "__type": "GeoPoint",
+                    "latitude": 51.17941039145048,
+                    "longitude": 7.071802311496311
+                }
+            },
+            "openingHours": {
+                "monday": [
+                    "7:30 - 16:30 Uhr"
+                ],
+                "tuesday": [
+                    "7:30 - 16:30 Uhr"
+                ],
+                "wednesday": [
+                    "7:30 - 16:30 Uhr"
+                ],
+                "thursday": [
+                    "7:30 - 16:30 Uhr"
+                ],
+                "friday": [
+                    "7:30 - 16:30 Uhr"
+                ],
+                "saturday": [
+                    "7:30 - 13:30 Uhr"
+                ],
+                "sunday": []
+            },
+            "createdAt": "2023-01-11T10:36:02.035Z",
+            "updatedAt": "2023-01-11T10:36:02.035Z"
+        }
+    ]
+}

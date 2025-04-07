@@ -1,0 +1,1411 @@
+{
+    "result": {
+        "address": "Aachener Stra\u00dfe 1",
+        "collection": [
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-01-04T23:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-01-12T23:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-01-18T23:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-01-25T23:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-02-01T23:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-02-08T23:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-02-15T23:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-02-22T23:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-03-01T23:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-03-08T23:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-03-15T23:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-03-22T23:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-03-29T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-04-05T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-04-11T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-04-20T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-04-26T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-05-03T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-05-10T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-05-17T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-05-24T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-05-31T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-06-08T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-06-14T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-06-21T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-06-28T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-07-05T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-07-12T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-07-19T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-07-26T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-08-02T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-08-09T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-08-16T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-08-23T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-08-30T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-09-06T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-09-13T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-09-20T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-09-27T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-10-05T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-10-11T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-10-18T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-10-25T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-11-02T23:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-11-08T23:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-11-15T23:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-11-22T23:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-11-29T23:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-12-06T23:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-12-13T23:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-12-20T23:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Restm\u00fcll w\u00f6chentlich",
+                "description": "Testdescription",
+                "type": 41,
+                "date": "2022-12-28T23:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0C0C0C",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Altpapier",
+                "description": "Testdescription",
+                "type": 20,
+                "date": "2022-01-10T23:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0000FF",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Altpapier",
+                "description": "Testdescription",
+                "type": 20,
+                "date": "2022-02-06T23:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0000FF",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Altpapier",
+                "description": "Testdescription",
+                "type": 20,
+                "date": "2022-03-06T23:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0000FF",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Altpapier",
+                "description": "Testdescription",
+                "type": 20,
+                "date": "2022-04-03T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0000FF",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Altpapier",
+                "description": "Testdescription",
+                "type": 20,
+                "date": "2022-05-01T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0000FF",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Altpapier",
+                "description": "Testdescription",
+                "type": 20,
+                "date": "2022-05-29T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0000FF",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Altpapier",
+                "description": "Testdescription",
+                "type": 20,
+                "date": "2022-06-26T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0000FF",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Altpapier",
+                "description": "Testdescription",
+                "type": 20,
+                "date": "2022-07-24T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0000FF",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Altpapier",
+                "description": "Testdescription",
+                "type": 20,
+                "date": "2022-08-21T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0000FF",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Altpapier",
+                "description": "Testdescription",
+                "type": 20,
+                "date": "2022-09-18T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0000FF",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Altpapier",
+                "description": "Testdescription",
+                "type": 20,
+                "date": "2022-10-16T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0000FF",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Altpapier",
+                "description": "Testdescription",
+                "type": 20,
+                "date": "2022-11-13T23:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0000FF",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Altpapier",
+                "description": "Testdescription",
+                "type": 20,
+                "date": "2022-12-11T23:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#0000FF",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Duales System",
+                "description": "Testdescription",
+                "type": 50,
+                "date": "2022-01-10T23:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#00FF00",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Duales System",
+                "description": "Testdescription",
+                "type": 50,
+                "date": "2022-02-06T23:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#00FF00",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Duales System",
+                "description": "Testdescription",
+                "type": 50,
+                "date": "2022-03-06T23:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#00FF00",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Duales System",
+                "description": "Testdescription",
+                "type": 50,
+                "date": "2022-04-03T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#00FF00",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Duales System",
+                "description": "Testdescription",
+                "type": 50,
+                "date": "2022-05-01T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#00FF00",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Duales System",
+                "description": "Testdescription",
+                "type": 50,
+                "date": "2022-05-29T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#00FF00",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Duales System",
+                "description": "Testdescription",
+                "type": 50,
+                "date": "2022-06-26T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#00FF00",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Duales System",
+                "description": "Testdescription",
+                "type": 50,
+                "date": "2022-07-24T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#00FF00",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Duales System",
+                "description": "Testdescription",
+                "type": 50,
+                "date": "2022-08-21T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#00FF00",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Duales System",
+                "description": "Testdescription",
+                "type": 50,
+                "date": "2022-09-18T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#00FF00",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Duales System",
+                "description": "Testdescription",
+                "type": 50,
+                "date": "2022-10-16T22:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#00FF00",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Duales System",
+                "description": "Testdescription",
+                "type": 50,
+                "date": "2022-11-13T23:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#00FF00",
+                "icon": "https://example.com"
+            },
+            {
+                "name": "Duales System",
+                "description": "Testdescription",
+                "type": 50,
+                "date": "2022-12-11T23:00:00.000Z",
+                "location": {
+                    "name": "Testlocation",
+                    "streetAddress": "Teststreet 1",
+                    "addressLocality": "Solingen",
+                    "postalCode": "42699",
+                    "geopoint": {
+                        "latitude": 51.1710385,
+                        "longitude": 7.0369401
+                    }
+                },
+                "color": "#00FF00",
+                "icon": "https://example.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+/*
+  Localizable.strings
+  OSCAWaste
+
+  Created by Ömer Kurutay on 01.08.22.
+  
+*/
+
+// The text for organic waste
+"organic_waste" = "Biotonne";
+// The text for residual waste
+"residual_waste" = "Restmüll";
+// The text for recycled paper
+"recycled_paper" = "Altpapier";
+// The text for dual system
+"dual_system" = "Duales System";
+// The text for christmas tree
+"christmas_tree" = "Weihnachtsbaum";
+// The text for bulk waste
+"bulk_waste" = "Sperrmüll";
+// The text for electrical waste
+"electrical_waste" = "Elektroschrottmobil";
+// The text for bulk waste
+"green_waste" = "Grünschnittcontainer";
+// The text for bulk waste
+"disposal_yard" = "Entsorgungshof";
+// The text for bulk waste
+"waste_to_energy" = "Müllheizkraftwerk";
+// The text for the unknown waste type
+"unknown" = "Unbekannt";

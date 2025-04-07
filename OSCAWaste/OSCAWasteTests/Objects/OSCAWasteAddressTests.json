@@ -1,0 +1,58 @@
+{
+    "results": [
+        {
+            "objectId": "eO7CarnnTAsraBnY",
+            "streetAddress": "Aachener Stra\u00dfe",
+            "houseNumber": "1",
+            "source": "abfallapp.regioit.de",
+            "sourceId": "2581581",
+            "createdAt": "2022-10-01T08:52:44.714Z",
+            "updatedAt": "2023-01-04T03:00:00.615Z"
+        },
+        {
+            "objectId": "qBgokuaKA3HtQA9e",
+            "streetAddress": "Aachener Stra\u00dfe",
+            "houseNumber": "3",
+            "source": "abfallapp.regioit.de",
+            "sourceId": "2581586",
+            "createdAt": "2022-10-01T08:52:44.952Z",
+            "updatedAt": "2023-01-04T03:00:00.702Z"
+        },
+        {
+            "objectId": "ucHJrHkHBSYDfamV",
+            "streetAddress": "Aachener Stra\u00dfe",
+            "houseNumber": "5",
+            "source": "abfallapp.regioit.de",
+            "sourceId": "2581587",
+            "createdAt": "2022-10-01T08:52:44.988Z",
+            "updatedAt": "2023-01-04T03:00:00.767Z"
+        },
+        {
+            "objectId": "D9c07JIipd2753j9",
+            "streetAddress": "Aachener Stra\u00dfe",
+            "houseNumber": "6",
+            "source": "abfallapp.regioit.de",
+            "sourceId": "2581588",
+            "createdAt": "2022-10-01T08:52:45.019Z",
+            "updatedAt": "2023-01-04T03:00:00.811Z"
+        },
+        {
+            "objectId": "8VfgpR1aC4YagOqt",
+            "streetAddress": "Aachener Stra\u00dfe",
+            "houseNumber": "7",
+            "source": "abfallapp.regioit.de",
+            "sourceId": "2581589",
+            "createdAt": "2022-10-01T08:52:45.052Z",
+            "updatedAt": "2023-01-04T03:00:00.849Z"
+        },
+        {
+            "objectId": "0bXJHpco9EGv5Fra",
+            "streetAddress": "Aachener Stra\u00dfe",
+            "houseNumber": "8",
+            "source": "abfallapp.regioit.de",
+            "sourceId": "2581590",
+            "createdAt": "2022-10-01T08:52:45.108Z",
+            "updatedAt": "2023-01-04T03:00:00.890Z"
+        }
+    ]
+}
